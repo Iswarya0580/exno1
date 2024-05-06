@@ -1,4 +1,6 @@
 # Exno:1
+# Name:Iswarya P
+# Reg no:212223230082
 Data Cleaning Process
 
 # AIM
